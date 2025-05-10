@@ -82,11 +82,11 @@
     <Compile Include="Sakin_ariza_kayit.Designer.cs">
       <DependentUpon>Sakin_ariza_kayit.cs</DependentUpon>
     </Compile>
-    <Compile Include="Sakin_aydat_bilgisi_görüntüle.cs">
+    <Compile Include="Sakin_aidat_bilgisi_görüntüle.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Sakin_aydat_bilgisi_görüntüle.Designer.cs">
-      <DependentUpon>Sakin_aydat_bilgisi_görüntüle.cs</DependentUpon>
+    <Compile Include="Sakin_aidat_bilgisi_görüntüle.Designer.cs">
+      <DependentUpon>Sakin_aidat_bilgisi_görüntüle.cs</DependentUpon>
     </Compile>
     <Compile Include="Sakin_bilgileri_goruntulemesi.cs">
       <SubType>Form</SubType>
@@ -174,8 +174,8 @@
     <EmbeddedResource Include="Sakin_ariza_kayit.resx">
       <DependentUpon>Sakin_ariza_kayit.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Sakin_aydat_bilgisi_görüntüle.resx">
-      <DependentUpon>Sakin_aydat_bilgisi_görüntüle.cs</DependentUpon>
+    <EmbeddedResource Include="Sakin_aidat_bilgisi_görüntüle.resx">
+      <DependentUpon>Sakin_aidat_bilgisi_görüntüle.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Sakin_bilgileri_goruntulemesi.resx">
       <DependentUpon>Sakin_bilgileri_goruntulemesi.cs</DependentUpon>

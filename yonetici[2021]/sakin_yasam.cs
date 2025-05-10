@@ -52,7 +52,7 @@ namespace yonetici_2021_
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Sakin_aydat_bilgisi_görüntüle b = new Sakin_aydat_bilgisi_görüntüle();
+            Sakin_aidat_bilgisi_görüntüle b = new Sakin_aidat_bilgisi_görüntüle();
             b.Show();
         }
 

@@ -11,9 +11,9 @@ using System.Data.OleDb;
 
 namespace yonetici_2021_
 {
-    public partial class Sakin_aydat_bilgisi_görüntüle : Form
+    public partial class Sakin_aidat_bilgisi_görüntüle : Form
     {
-        public Sakin_aydat_bilgisi_görüntüle()
+        public Sakin_aidat_bilgisi_görüntüle()
         {
             InitializeComponent();
         }
