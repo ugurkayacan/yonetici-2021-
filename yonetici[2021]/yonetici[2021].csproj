@@ -46,11 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Aydat_Bilgisi_Ve_Gelirler.cs">
+    <Compile Include="Aidat_Bilgisi_Ve_Gelirler.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Aydat_Bilgisi_Ve_Gelirler.Designer.cs">
-      <DependentUpon>Aydat_Bilgisi_Ve_Gelirler.cs</DependentUpon>
+    <Compile Include="Aidat_Bilgisi_Ve_Gelirler.Designer.cs">
+      <DependentUpon>Aidat_Bilgisi_Ve_Gelirler.cs</DependentUpon>
     </Compile>
     <Compile Include="Bina_sakinleri.cs">
       <SubType>Form</SubType>
@@ -156,8 +156,8 @@
     <Compile Include="Yonetici_arizalari_goruntule.Designer.cs">
       <DependentUpon>Yonetici_arizalari_goruntule.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Aydat_Bilgisi_Ve_Gelirler.resx">
-      <DependentUpon>Aydat_Bilgisi_Ve_Gelirler.cs</DependentUpon>
+    <EmbeddedResource Include="Aidat_Bilgisi_Ve_Gelirler.resx">
+      <DependentUpon>Aidat_Bilgisi_Ve_Gelirler.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Bina_sakinleri.resx">
       <DependentUpon>Bina_sakinleri.cs</DependentUpon>

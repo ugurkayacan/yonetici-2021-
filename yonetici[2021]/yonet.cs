@@ -50,7 +50,7 @@ namespace yonetici_2021_
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Aydat_Bilgisi_Ve_Gelirler a = new Aydat_Bilgisi_Ve_Gelirler();
+            Aidat_Bilgisi_Ve_Gelirler a = new Aidat_Bilgisi_Ve_Gelirler();
             a.Show();
         }
 

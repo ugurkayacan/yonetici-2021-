@@ -11,9 +11,9 @@ using System.Data.OleDb;
 
 namespace yonetici_2021_
 {
-    public partial class Aydat_Bilgisi_Ve_Gelirler : Form
+    public partial class Aidat_Bilgisi_Ve_Gelirler : Form
     {
-        public Aydat_Bilgisi_Ve_Gelirler()
+        public Aidat_Bilgisi_Ve_Gelirler()
         {
             InitializeComponent();
         }

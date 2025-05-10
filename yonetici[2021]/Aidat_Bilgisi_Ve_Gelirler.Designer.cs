@@ -1,7 +1,7 @@
 ﻿
 namespace yonetici_2021_
 {
-    partial class Aydat_Bilgisi_Ve_Gelirler
+    partial class Aidat_Bilgisi_Ve_Gelirler
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace yonetici_2021_
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Aydat_Bilgisi_Ve_Gelirler));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Aidat_Bilgisi_Ve_Gelirler));
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
